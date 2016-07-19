@@ -1,0 +1,11 @@
+This repository contains my and my team's working directory for the final project 
+done in the class Math 191 - Numerical Linear Algebra for Data Analysis, taken Winter 2016
+at UCLA. The purpose of the project was to write a linear algebra based algorithm written in
+an academic paper in python. This project was worked on by Theodore Nguyen, Eric Fornaciari, 
+and Chris Jeon. This is my personal repository for the project - the team contributions can
+be found at https://github.com/efornaciari/LLC
+
+Also note that all MATLAB code in the repository is the property of the writers of the academic
+paper: Locality-constrained Linear Coding for Image Classification. The paper can be found 
+with a quick Google search, or at http://www.ifp.illinois.edu/~jyang29/papers/CVPR10-LLC.pdf
+
